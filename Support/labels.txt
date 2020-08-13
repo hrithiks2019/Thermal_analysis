@@ -1,0 +1,3 @@
+0 Motor
+1 Wire_or_Junction
+2 Fuse

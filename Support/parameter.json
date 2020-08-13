@@ -1,0 +1,17 @@
+{
+  "Motor": {
+    "max_temp": 80,
+    "normal_temp": 70,
+    "o_temp_prblm": "REWINDING OR MORE USAGE"
+  },
+  "Wire_or_Junction": {
+    "max_temp": 90,
+    "normal_temp": 40,
+    "o_temp_prblm": "HIGH CURRENT CONSUMPTION"
+  },
+  "Fuse": {
+    "max_temp": 110,
+    "normal_temp": 50,
+    "o_temp_prblm": "HIGH CURRENT CONSUMPTION"
+  }
+}
